@@ -17,6 +17,15 @@ One Line Makes it work:
 SetThreadExecutionState(ES_CONTINUOUS | ES_DISPLAY_REQUIRED | ES_SYSTEM_REQUIRED);
 ```
 
+![Program Open](./res/KeepAwake1.png)
+*Program Running in 'On' State*
+
+![Program Open](./res/KeepAwake2.png)
+*Program Running in 'Off' State*
+
+![Program Open](./res/KeepAwake3.png)
+*Program Minimized to Taskbar*
+
 
 ## Installation
 
@@ -39,4 +48,4 @@ Enabling the program as a startup on windows:
 
 ## License
 
-2023 Skelton Networks [MIT](./LICENSE)
+Skelton Networks © 2023 [MIT](./LICENSE)
